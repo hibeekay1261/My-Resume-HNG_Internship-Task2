@@ -1,3 +1,3 @@
-// const name = "Oyewole Ibukun";
+const name = "Oyewole Ibukun";
 
-// alert(`My name is ${name}`);
+alert(`My name is ${name}`);
